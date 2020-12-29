@@ -1,0 +1,13 @@
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.exe
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.deps.json
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.runtimeconfig.json
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.runtimeconfig.dev.json
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.dll
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\bin\Debug\netcoreapp3.1\ConsoleApp42.pdb
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.AssemblyInfoInputs.cache
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.AssemblyInfo.cs
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.csproj.CoreCompileInputs.cache
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.dll
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.pdb
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.genruntimeconfig.cache
+A:\curs MTA\Programes\ConsoleApp42\ConsoleApp42\obj\Debug\netcoreapp3.1\ConsoleApp42.csprojAssemblyReference.cache
